@@ -1,4 +1,4 @@
 public class NewClass {
 
-    System.out.println("New Class");
+    System.out.println("New Class +++");
 }
